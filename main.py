@@ -179,7 +179,7 @@ interrupted = False
 
 Block.blocks.append(Block())
 fall = 0
-buttons = [False] * 5
+buttons = [False] * 3
 
 while not interrupted:
 
